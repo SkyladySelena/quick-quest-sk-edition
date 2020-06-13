@@ -46,7 +46,7 @@ rules.play.list.6=Si tu determinación llega a 0, estás <strong>FUERA DE JUEGO<
 rules.play.list.7=Recuperas 1 determinación cuando <strong>FINALICES UN DESCANSO LARGO</strong>.
 rules.play.list.8=Puedes llevar hasta 3 <strong>OBJETOS IMPORTANTES</strong> a la vez.
 rules.play.list.9=Cuando completes la misión, ¡la partida termina! Si has sobrevivido, <strong>OBTIENES UN BENEFICIO</strong>. Puedes escoger (a) +1 punto de atributo, (b) +1 punto de arquetipo, or (c) +1 determinación máxima.
-rules.footer=<span>Quick Quest v1.1 por giffyglyph.com</span><span>Licencia CC BY-NC-SA 3.0</span>
+rules.footer=<span>Quick Quest (v1.1): giffyglyph</span><span>Licencia: CC BY-NC-SA 3.0</span><span>Traducido: Daniel Fernández García</span>
 
 sheet.character.title=Personaje
 sheet.character.name=Nombre
@@ -65,7 +65,7 @@ sheet.character.bad=Se me da mal...
 sheet.character.item.1=Objeto #1
 sheet.character.item.2=Objeto #2
 sheet.character.item.3=Objeto #3
-sheet.character.footer=<span>Quick Quest v1.1 por giffyglyph.com</span><span>patreon.com/giffyglyph</span>
+sheet.character.footer=<span>Quick Quest (v1.1): giffyglyph</span><span>patreon.com/giffyglyph</span><span>Traducido: Daniel Fernández García</span>
 
 sheet.questboard.title=Tabla de Misión
 sheet.questboard.name=Nombre
@@ -85,4 +85,4 @@ sheet.questboard.outline.middle=Mitad
 sheet.questboard.outline.end=Final
 sheet.questboard.ancestries=Linajes
 sheet.questboard.callings=Vocaciones
-sheet.questboard.footer=<span>Quick Quest v1.1 por giffyglyph.com</span><span>patreon.com/giffyglyph</span>
+sheet.questboard.footer=<span>Quick Quest (v1.1): giffyglyph</span><span>patreon.com/giffyglyph</span><span>Traducido: Daniel Fernández García</span>

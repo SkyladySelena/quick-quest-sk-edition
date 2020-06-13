@@ -46,7 +46,7 @@ rules.play.list.6=If you have 0 resolve, you are <strong>TAKEN OUT</strong>.
 rules.play.list.7=You regain 1 resolve when you <strong>FINISH A LONG REST</strong>.
 rules.play.list.8=You can carry 3 <strong>SIGNIFICANT ITEMS</strong> at once.
 rules.play.list.9=When the quest is resolved, the game ends! If you survived, <strong>GAIN A PERK</strong>. Choose either (a) +1 attribute point, (b) +1 archetype point, or (c) +1 maximum resolve.
-rules.footer=<span>Quick Quest v1.1 by giffyglyph.com</span><span>Licensed CC BY-NC-SA 3.0</span>
+rules.footer=<span>Quick Quest (v1.1): giffyglyph</span><span>License: CC BY-NC-SA 3.0</span>
 
 sheet.character.title=Character
 sheet.character.name=Name
@@ -65,7 +65,7 @@ sheet.character.bad=I'm Bad At...
 sheet.character.item.1=Item #1
 sheet.character.item.2=Item #2
 sheet.character.item.3=Item #3
-sheet.character.footer=<span>Quick Quest v1.1 by giffyglyph.com</span><span>patreon.com/giffyglyph</span>
+sheet.character.footer=<span>Quick Quest (v1.1): giffyglyph</span><span>patreon.com/giffyglyph</span>
 
 sheet.questboard.title=Questboard
 sheet.questboard.name=Name
@@ -85,4 +85,4 @@ sheet.questboard.outline.middle=Middle
 sheet.questboard.outline.end=End
 sheet.questboard.ancestries=Ancestries
 sheet.questboard.callings=Callings
-sheet.questboard.footer=<span>Quick Quest v1.1 by giffyglyph.com</span><span>patreon.com/giffyglyph</span>
+sheet.questboard.footer=<span>Quick Quest (v1.1): giffyglyph</span><span>patreon.com/giffyglyph</span>
