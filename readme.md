@@ -2,11 +2,12 @@
 
 A 1-page RPG-lite d20 ruleset. This project contains distributable pdfs and translation files to share and update Quick Quest.
 
-[READ THE PDF](dist/pdfs/quick_quest_v1_1_en.pdf)
+* **COLOR PDFs:** [English](dist/pdfs/quick_quest_v1_1_en.pdf), [French](dist/pdfs/quick_quest_v1_1_fr.pdf), [Spanish](dist/pdfs/quick_quest_v1_1_es.pdf)
+* **PRINT-FRIENDLY PDFs:** [English](dist/pdfs/quick_quest_v1_1_en_pf.pdf), [French](dist/pdfs/quick_quest_v1_1_fr_pf.pdf), [Spanish](dist/pdfs/quick_quest_v1_1_es_pf.pdf)
 
 # License
 
-Quick Quest is released on a CC BY-NC-SA 3.0 license (https://creativecommons.org/licenses/by-nc-sa/3.0/). You are free to:
+Quick Quest is released on a [**CC BY-NC-SA 3.0** license](https://creativecommons.org/licenses/by-nc-sa/3.0/). You are free to:
 
 * **Share:**: Copy and redistribute Quick Quest in any medium or format.
 * **Adapt:** Remix, transform, and build upon Quick Quest.
@@ -17,6 +18,7 @@ Quick Quest is released on a CC BY-NC-SA 3.0 license (https://creativecommons.or
 ## Want to add a translation?
 
 1. Make a copy of [/src/translations/en.txt](/src/translations/en.txt).
-2. Rename your file using the ISO 639-1 code for your language (see https://www.loc.gov/standards/iso639-2/php/code_list.php).
+2. Rename your file using the [ISO 639-1 code](https://www.loc.gov/standards/iso639-2/php/code_list.php) for your language.
 3. Translate all the text strings, making sure to maintain any html elements (e.g. strong/span).
 4. Let me know about your changes, either by making a pull request or by sending me the translations directly. Once merged, I'll generate a new translated pdf for the language (when verified).
+5. Let me know what name you'd like to be credited by.
